@@ -1,1 +1,15 @@
-
+{
+    "contact": "https://discord.gg/Vgx2xDvg",
+    "templates": [
+        {
+            "name": "r/EchoArena",
+            "sources": [
+                "https://cdn.discordapp.com/attachments/690634070828515409/1132029873540583424/pixil-frame-0_1.png"
+            ],
+            "x": 1226,
+            "y": 344
+        }
+    ],
+    "whitelist": [
+    ]
+}
