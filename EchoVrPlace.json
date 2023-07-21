@@ -6,7 +6,7 @@
             "sources": [
                 "https://cdn.discordapp.com/attachments/690634070828515409/1132029873540583424/pixil-frame-0_1.png"
             ],
-            "x": 122,
+            "x": 1226,
             "y": 344
         }
     ],
@@ -16,8 +16,8 @@
             "url": "https://raw.githubusercontent.com/MrWizard27/Test/main/StarWarsPlace.json"
         },
         {
-            "name": "Canada",
-            "url": "https://raw.githubusercontent.com/MrWizard27/Test/main/Canadaplace.json"
+            "name": "",
+            "url": ""
         }
     ]
 }
