@@ -4,10 +4,10 @@
         {
             "name": "Canada",
             "sources": [
-                "https://media.discordapp.net/attachments/1131693987749711962/1132040317441429564/image.png"
+                "https://raw.githubusercontent.com/max-was-here/place-canada-2023/master/pictures/canada.provinces.png"
             ],
-            "x": 530,
-            "y": 731
+            "x": 1181,
+            "y": 356
         }
     ],
     "whitelist": [
