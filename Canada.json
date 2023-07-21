@@ -1,1 +1,15 @@
-
+{
+    "contact": "https://discord.gg/placecanada-959145637922889728",
+    "templates": [
+        {
+            "name": "Canada",
+            "sources": [
+                "https://media.discordapp.net/attachments/1131693987749711962/1132040317441429564/image.png"
+            ],
+            "x": 530,
+            "y": 731
+        }
+    ],
+    "whitelist": [
+    ]
+}
