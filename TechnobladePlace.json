@@ -1,0 +1,15 @@
+{
+    "contact": "N/A",
+    "templates": [
+        {
+            "name": "Technoblade",
+            "sources": [
+                "https://cdn.discordapp.com/attachments/1114194046559207576/1131893943823507516/Technoblade-export.png"
+            ],
+            "x": 840,
+            "y": 796
+        }
+    ],
+    "whitelist": [
+    ]
+}
