@@ -11,5 +11,13 @@
         }
     ],
     "whitelist": [
+        {
+            "name": "Star Wars",
+            "url": "https://raw.githubusercontent.com/MrWizard27/Test/main/StarWarsPlace.json"
+        },
+        {
+            "name": "Technoblade",
+            "url": "https://raw.githubusercontent.com/MrWizard27/Test/main/TechnobladePlace.json"
+        }
     ]
 }
