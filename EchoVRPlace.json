@@ -4,10 +4,10 @@
         {
             "name": "r/EchoArena",
             "sources": [
-                "https://cdn.discordapp.com/attachments/690634070828515409/1132029873540583424/pixil-frame-0_1.png"
+                "https://blackmidi.wiki/alliance.png"
             ],
-            "x": 1225,
-            "y": 349
+            "x": 174,
+            "y": 175
         }
     ],
     "whitelist": [
