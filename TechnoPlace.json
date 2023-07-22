@@ -2,14 +2,6 @@
   "contact": "https://discord.gg/BefnkP5f",
   "templates": [
     {
-      "name": "techno 1",
-      "sources": [
-        "https://cdn.discordapp.com/attachments/1132048702253584436/1132094758639124630/image.png"
-      ],
-      "x": 286,
-      "y": 743
-    },
-    {
       "name": "techno 2",
       "sources": [
         "https://cdn.discordapp.com/attachments/1132048702253584436/1132122718444208270/image.png"
