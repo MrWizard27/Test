@@ -4,10 +4,10 @@
         {
             "name": "r/EchoArena",
             "sources": [
-                "https://media.discordapp.net/attachments/690634070828515409/1132029873540583424/pixil-frame-0_1.png"
+                "https://raw.githubusercontent.com/DancingNerd/echoplace/main/EchoCurrent.png"
             ],
-            "x": 177,
-            "y": 273
+            "x": 464,
+            "y": 489
         }
     ],
     "whitelist": [
