@@ -2,17 +2,9 @@
     "contact": "https://discord.gg/Vgx2xDvg",
     "templates": [
     {
-      "name": "Echo Top",
+      "name": "Echo",
       "sources": [
-        "https://cdn.discordapp.com/attachments/690634070828515409/1132875321121705984/pixil-frame-0_3.png"
-      ],
-      "x": 964,
-      "y": 489
-    },
-    {
-      "name": "Echo Bottom",
-      "sources": [
-        "https://cdn.discordapp.com/attachments/690634070828515409/1132875321121705984/pixil-frame-0_3.png"
+        "https://cdn.discordapp.com/attachments/690634070828515409/1133181848734933062/pixil-frame-0_7.png"
       ],
       "x": 1827,
       "y": 1914
