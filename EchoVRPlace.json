@@ -1,15 +1,31 @@
 {
     "contact": "https://discord.gg/Vgx2xDvg",
     "templates": [
-        {
-            "name": "r/EchoArena",
-            "sources": [
-                "https://raw.githubusercontent.com/DancingNerd/echoplace/main/EchoCurrent.png"
-            ],
-            "x": 464,
-            "y": 486
-        }
-    ],
+    {
+      "name": "Echo Top",
+      "sources": [
+        "https://cdn.discordapp.com/attachments/690634070828515409/1132029873540583424/pixil-frame-0_1.png"
+      ],
+      "x": 964,
+      "y": 489
+    },
+    {
+      "name": "Echo Bottom",
+      "sources": [
+        "https://cdn.discordapp.com/attachments/690634070828515409/1132029873540583424/pixil-frame-0_1.png"
+      ],
+      "x": 1827,
+      "y": 1914
+    },
+    {
+      "name": "Echo Face",
+      "sources": [
+        "https://raw.githubusercontent.com/Smyka/smyka.github.io/main/image%20(9).png"
+      ],
+      "x": 75,
+      "y": 657
+    }
+  ],
     "whitelist": [
         {
             "name": "Star Wars",
