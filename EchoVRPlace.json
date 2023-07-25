@@ -18,5 +18,10 @@
       "y": 657
     }
   ],
-    "whitelist": []
+    "whitelist": [
+        {
+      "name": "Technoblade",
+      "url": ""
+    }
+    ]
 }
